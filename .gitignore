@@ -1,0 +1,4 @@
+# Игнорируем кэш и временные файлы Obsidian
+.obsidian/workspace.json
+.obsidian/cache/
+.trash/

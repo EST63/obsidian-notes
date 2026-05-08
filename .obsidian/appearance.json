@@ -1,4 +1,7 @@
 {
   "cssTheme": "Tokyo Night",
-  "textFontFamily": "PT Mono"
+  "textFontFamily": "PT Mono",
+  "enabledCssSnippets": [
+    "dashboard"
+  ]
 }
